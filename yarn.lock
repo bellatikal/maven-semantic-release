@@ -1458,9 +1458,9 @@
   resolved "https://registry.npmjs.org/@semantic-release/error/-/error-3.0.0.tgz"
   integrity sha512-5hiM4Un+tpl4cKw3lV4UgzJj+SmfNIDCLLw0TepzQxz9ZGV5ixnqkzIVF+3tp0ZHgcMKE+VNGHJjEeyFG2dcSw==
 
-"@semantic-release/github@^8.0.0":
+"@semantic-release/gitlab@^9.0.1":
   version "8.0.2"
-  resolved "https://registry.npmjs.org/@semantic-release/github/-/github-8.0.2.tgz"
+  resolved "https://registry.npmjs.org/@semantic-release/gitlab/-/gitlab-9.0.1.tgz"
   integrity sha512-wIbfhOeuxlYzMTjtSAa2xgr54n7ZuPAS2gadyTWBpUt2PNAPgla7A6XxCXJnaKPgfVF0iFfSk3B+KlVKk6ByVg==
   dependencies:
     "@octokit/rest" "^18.0.0"
